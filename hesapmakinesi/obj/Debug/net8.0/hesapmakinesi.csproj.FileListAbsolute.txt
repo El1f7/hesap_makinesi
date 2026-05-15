@@ -1,0 +1,14 @@
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\net8.0\hesapmakinesi.exe
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\net8.0\hesapmakinesi.deps.json
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\net8.0\hesapmakinesi.runtimeconfig.json
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\net8.0\hesapmakinesi.dll
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\net8.0\hesapmakinesi.pdb
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\hesapmakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\hesapmakinesi.AssemblyInfoInputs.cache
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\hesapmakinesi.AssemblyInfo.cs
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\hesapmakinesi.dll
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\refint\hesapmakinesi.dll
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\hesapmakinesi.pdb
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\hesapmakinesi.genruntimeconfig.cache
+C:\Users\Elifb\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\net8.0\ref\hesapmakinesi.dll
